@@ -16,6 +16,7 @@ body {
 .headshot img{
     width: 230px;  /* Set width */
     height: auto;  /* Set height */
+    border-radius: 4px;
     
   }
 
