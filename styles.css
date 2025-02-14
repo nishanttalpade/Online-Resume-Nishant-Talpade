@@ -18,6 +18,10 @@ body {
     height: auto;  /* Set height */
   }
 
+  .headshot {
+    margin-left: 0px!important; 
+  }
+
 h1 {
     font-family: "Oxygen", serif;
   font-weight: 900;
