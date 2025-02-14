@@ -6,7 +6,7 @@ body {
 .container {
     display:flex;
     width: 900px;
-    padding: 20px;
+    padding: 40px;
     margin: 40px auto;
     background-color: #dcf6ff;
     border-radius: 8px;
@@ -16,10 +16,12 @@ body {
 .headshot img{
     width: 230px;  /* Set width */
     height: auto;  /* Set height */
+    
   }
 
   .headshot {
     margin-left: 0px!important; 
+    margin-top: 0px;
   }
 
 h1 {
@@ -27,6 +29,8 @@ h1 {
   font-weight: 900;
   font-style: normal;
   font-size: 32px;
+  margin-top: 0px;
+  
 
 }
 
