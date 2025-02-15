@@ -78,3 +78,18 @@ p {
 
 
 }
+
+nav {
+  background-color: #eefdff;
+  padding: 5px;
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.3));
+
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  width: 900px;
+  margin: 0px auto;
+}
