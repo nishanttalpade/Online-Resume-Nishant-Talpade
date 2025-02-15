@@ -8,6 +8,7 @@ body {
     font-family: "Nobile", serif;
     line-height: 20px;
     
+    
 }
 
 .container {
@@ -88,6 +89,10 @@ nav {
   background-color: #eefdff;
   padding: 5px;
   filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.3));
+  position: fixed; /* Sticks the navbar to the top */
+      top: 0;
+      left: 0;
+      width: 100%;
 
 }
 
