@@ -2,6 +2,7 @@ body {
     background-color: #eefdff;
     font-family: "Nobile", serif;
     line-height: 20px;
+    scroll-behavior: smooth;
 }
 
 .container {
