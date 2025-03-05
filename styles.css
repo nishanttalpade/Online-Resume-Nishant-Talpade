@@ -114,6 +114,11 @@ nav ul {
 
 
 }
+
+.sidebar {
+  max-height: 346px;
+}
+
 /*for mobile*/
 @media screen and (max-width: 576px) {
   .container {
