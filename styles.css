@@ -119,6 +119,19 @@ nav ul {
   max-height: 346px;
 }
 
+.section1{
+  margin-bottom: 0px !important;
+  border-radius: 8px 8px 0px 0px;
+  padding-bottom: 0px;
+}
+
+
+.section2{
+  margin-top: 0px !important;
+  border-radius: 0px 0px 8px 8px;
+  padding-top: 0px;
+}
+
 /*for mobile*/
 @media screen and (max-width: 576px) {
   .container {
